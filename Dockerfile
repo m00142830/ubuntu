@@ -1,1 +1,1 @@
-FROM apachegeode/geode
+FROM bitnami/geode
